@@ -1,0 +1,22 @@
+#Object files
+#*.o
+
+# Libraries
+#*.lib
+#*.a
+#*.la
+#*.lo
+
+# Executables
+#*.exe
+
+
+# Files rebuilt each build
+# AutoPilotSim.X/build/
+
+# Temporary word files
+*~$*.doc*
+*~$*.xls*
+
+
+
